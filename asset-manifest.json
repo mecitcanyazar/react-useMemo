@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-useMemo/static/css/main.fa3f6c03.css",
+    "main.js": "/react-useMemo/static/js/main.eda72e36.js",
+    "index.html": "/react-useMemo/index.html",
+    "main.fa3f6c03.css.map": "/react-useMemo/static/css/main.fa3f6c03.css.map",
+    "main.eda72e36.js.map": "/react-useMemo/static/js/main.eda72e36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa3f6c03.css",
+    "static/js/main.eda72e36.js"
+  ]
+}
