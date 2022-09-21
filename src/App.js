@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Setup from './tutorial/useMemo-useCallback/setup/index'
+import Setup from '../src/tutorial/useMemo-useCallback/setup/index'
 
 
 function App() {

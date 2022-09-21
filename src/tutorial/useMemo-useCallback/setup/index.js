@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react'
-import { useFetch } from '../../custom-hooks/2-useFetch'
+import { useFetch } from '../../custom-hooks/setup/2-useFetch'
 
 const url = 'https://course-api.com/javascript-store-products'
 
